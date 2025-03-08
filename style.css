@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  background: #104bb8;
+}
+
+h1 {
+  color: #fff;
+  background: #437fcece;
+  padding: 20px;
+  margin: 20px;
+  border: none;
+  border-radius: 8px;
+}
+
+h1:hover {
+  color: #000;
+  background: #eee;
+  animation: ease-in-out;
+  transition: 0.5s;
+  cursor: pointer;
+}
